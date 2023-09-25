@@ -2,7 +2,7 @@
 Basic All in one program of C++ for your learn.
 
 Preview:
-![gambar](https://github.com/LOolCat/allinonecplusplus/assets/59406616/9d5539c6-6786-4ad0-8d07-2b747676a599)
+<img width="863" alt="image" src="https://github.com/r3ntan/allinoneprogram/assets/145985015/8f573455-6bdb-40ae-bb95-2fe60fb1b0ed">
 ![gambar](https://github.com/LOolCat/allinonecplusplus/assets/59406616/3ac08342-e596-4bac-b467-1571bf5652cf)
 
 
