@@ -1,17 +1,43 @@
-# allinoneprogram
-Basic All in one program of C++ for your learn.
+# SPOTIFY AUTO CREATE ACCOUNT V1
 
-Preview:
-![gambar](https://github.com/r3ntan/allinoneprogram/assets/145985015/7eed5f55-ef63-40ec-8963-c1c0a8ca63f6)
+![image](https://github.com/r3ntan/allinoneprogram/assets/145985015/f371c804-0e37-439b-a5fb-41492fa3c1e2)
 
-![gambar](https://github.com/LOolCat/allinonecplusplus/assets/59406616/3ac08342-e596-4bac-b467-1571bf5652cf)
+### Dependencies
 
+* Windows/MAC OS/Linux
+* Node JS
+* Chrome Driver
 
-All the credits of this program goes to -Rey 
+### Installing
 
-Feel free to hit me on Instagram: 7ipaa_ 
+* Download chrome drivernya dulu https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6099.71/win64/chromedriver-win64.zip
+* Download Node JS kalo belom punya https://nodejs.org/
+* Buka command prompt
+```
+git clone https://github.com/r3ntan/spotifyautocreatev1
+```
+* Arahin ke folder nya
+* Kalo udah di main-directory filenya install module
+```
+npm install
+```
 
-Source code is FREE! Edit by yourself and explore the things up!
+* Kalo udah selesai langsung aja eksekusi
+```
+node app.js
+```
 
-Thanks to Allah SWT
+* Done
 
+## Authors
+
+https://instagram.com/7ipaaa_
+
+## Version History
+
+* 1.0
+    * Fix bugs
+  
+## License
+
+See the LICENSE.md file for details
