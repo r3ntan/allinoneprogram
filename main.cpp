@@ -137,6 +137,8 @@ void fibonaci() {
 	}
 }
 
+
+
 // Program tarif parkir
 void tarif_parkir() {
 	
@@ -602,7 +604,18 @@ int main() {
 }
 
 
-
+CREATE TABLE registrations (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_transaksi VARCHAR(255) NOT NULL,
+    nama VARCHAR(255) NOT NULL,
+    alamat VARCHAR(255) NOT NULL,
+    no_hp VARCHAR(20) NOT NULL,
+    kode_makanan VARCHAR(50) NOT NULL,
+    jumlah_beli INT NOT NULL,
+    total_bayar INT NOT NULL,
+    bayar INT NOT NULL,
+    kembalian INT NOT NULL
+);
 
 
 
